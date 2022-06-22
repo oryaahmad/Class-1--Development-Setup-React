@@ -18,3 +18,7 @@ This repository is for learning about "how to initialize a development setup for
   </ul>
 
 <h2>check the .github\workflow\main.yaml to see how workflow is working</h2>
+
+
+<h2>Surge</h2>
+http://class_1_development_setup.surge.sh/
