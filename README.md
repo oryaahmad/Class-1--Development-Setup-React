@@ -22,3 +22,6 @@ This repository is for learning about "how to initialize a development setup for
 
 <h2>Surge</h2>
 http://class_1_development_setup.surge.sh/
+
+<h1>Representation on cicd<h1>
+![ci cd asset updates  007](https://user-images.githubusercontent.com/107934830/175010735-c38e94b0-380b-43ee-89c9-28e52b22a336.png)
