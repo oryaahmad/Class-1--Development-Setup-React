@@ -1,5 +1,5 @@
 # Class-1--Development-Setup-React
-this repository is for learning about "how to initialize a development setup for react project" and creation of a CICD work flow using SURGE host.
+This repository is for learning about "how to initialize a development setup for react project" and creation of a CICD work flow using SURGE host.
 
 <h1>Requirments</h1>
   Installations
