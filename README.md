@@ -12,7 +12,7 @@ This repository is for learning about "how to initialize a development setup for
 
 <h2>useful commands for surge</h2>
   <ul>
-      <li>intalling surge => npm install -g surge</li>
+      <li>installing surge => npm install -g surge</li>
       <li>token generation => surge token</li>
       <li>url generation => surge</li>
   </ul>
